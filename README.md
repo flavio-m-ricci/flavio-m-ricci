@@ -33,7 +33,7 @@ Implemented a three-dimensional XY spin-glass simulation combining parallel temp
 ### [Statistical Physics and Machine Learning](https://github.com/flavio-m-ricci/statistical-physics-and-machine-learning)
 **Learning theory experiments · Python · Coursework**
 
-Implemented numerical studies of polynomial regression, perceptron learning and generalization. Extended the prescribed coursework with a supplementary investigation of update noise in a teacher–student perceptron model, supported by numerical results, figures and reports.
+Implemented numerical studies of polynomial regression, perceptron learning and generalization. Investigated the annealed approximation to perceptron learning using fixed-point methods, analyzing numerical convergence and comparing theoretical predictions with simulations. Extended the prescribed coursework with a supplementary investigation of update noise in a teacher–student perceptron model, supported by numerical results, figures and reports.
 
 ## Planned MSc Thesis
 
